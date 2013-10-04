@@ -3,8 +3,7 @@
     "title": "Livescript Syntax for brackets",
     "homepage": "https://github.com/devinceble/brackets-livescript",
     "description": "Provides livescript syntax highlight via a CodeMirror mode for Brackets.",
-    "homepage": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Leivince John Marte",
     "license": "MIT",
     "engines": {
